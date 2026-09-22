@@ -7,7 +7,7 @@
 Santa Clara University · B.S. Computer Science & Engineering, 2029  
 Seeking Software Engineering internships for Summer 2027
 
-[LinkedIn](https://www.linkedin.com/in/nicholas-sasina) · [Email](mailto:nsasina@scu.edu)
+[LinkedIn](https://www.linkedin.com/in/nicholas-sasina) · [Email](mailto:nicholasdavidsasina@gmail.com)
 
 </div>
 
@@ -83,6 +83,6 @@ Outside of software, I enjoy skiing, distance running, swimming, filmmaking, and
 
 ### Open to Summer 2027 software engineering internships.
 
-[Connect on LinkedIn](https://www.linkedin.com/in/nicholas-sasina) · [nsasina@scu.edu](mailto:nsasina@scu.edu)
+[Connect on LinkedIn](https://www.linkedin.com/in/nicholas-sasina) · [nicholasdavidsasina@gmail.com](mailto:nicholasdavidsasina@gmail.com)
 
 </div>
