@@ -5,7 +5,7 @@
 **Computer Science & Engineering student building polished iOS products and full-stack mobile systems.**
 
 Santa Clara University · B.S. Computer Science & Engineering, 2029  
-Seeking Software Engineering internships for Summer 2027
+Seeking technical internship for Summer 2027
 
 [LinkedIn](https://www.linkedin.com/in/nicholas-sasina) · [Email](mailto:nicholasdavidsasina@gmail.com)
 
@@ -15,7 +15,7 @@ Seeking Software Engineering internships for Summer 2027
 
 I am a Computer Science and Engineering student at Santa Clara University with experience taking software from an initial idea through architecture, implementation, testing, and public release.
 
-I have independently designed and shipped three iOS applications to the App Store. My work spans SwiftUI interface architecture, realtime Firebase systems, Apple frameworks, local-first persistence, privacy and moderation decisions, beta testing, and product-focused UI/UX. I am especially interested in software engineering roles where strong technical execution and thoughtful product design matter equally.
+I have independently designed and shipped three iOS applications to the App Store. My work spans SwiftUI interface architecture, realtime Firebase systems, Apple frameworks, local-first persistence, privacy and moderation decisions, beta testing, and product-focused UI/UX. I am especially interested in software engineering and product design/management roles.
 
 I previously worked as an **AI Solutions Engineering Intern at ChangeWell, Inc.**, where I used AI-assisted development tools to modernize web experiences and build efficient creative-production workflows.
 
@@ -81,7 +81,7 @@ Outside of software, I enjoy skiing, distance running, swimming, filmmaking, and
 
 <div align="center">
 
-### Open to Summer 2027 software engineering internships.
+### Open to Summer 2027 technical internships.
 
 [Connect on LinkedIn](https://www.linkedin.com/in/nicholas-sasina) · [nicholasdavidsasina@gmail.com](mailto:nicholasdavidsasina@gmail.com)
 
