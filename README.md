@@ -19,6 +19,23 @@ I have independently designed and shipped three iOS applications to the App Stor
 
 I previously worked as an **AI Solutions Engineering Intern at ChangeWell, Inc.**, where I used AI-assisted development tools to modernize web experiences and build efficient creative-production workflows.
 
+## Hackathon
+
+### [Burn](https://github.com/nicholas-sasina/killswitchproject)
+
+**2nd Place, A10 Track · AWS x A10 Hackathon at Santa Clara University · November 2026**<br>
+Software Engineer & Live Demo Lead
+
+Co-developed an AWS-based security prototype to detect credential leaks, revoke compromised AI agents, and rotate exposed credentials while preserving unaffected agents' access.
+
+- Strengthened outgoing network security in Python through destination restrictions, request validation, and signed traffic to help identify leaked credential use.
+- Built automated security and performance evaluation tools, validated changes against 226 passing tests, and documented results, architecture, and demo procedures.
+- Led live demo preparation and execution for both judging rounds and the finalist presentation, demonstrating selective containment of compromised agents.
+
+`Python` `AWS` `AI Agent Security`
+
+[Repository](https://github.com/nicholas-sasina/killswitchproject) · [Architecture](https://github.com/nicholas-sasina/killswitchproject/blob/main/docs/architecture.md) · [Evaluation Results](https://github.com/nicholas-sasina/killswitchproject/blob/main/eval/RESULTS.md)
+
 ## Featured Projects
 
 <table>
@@ -67,6 +84,7 @@ I previously worked as an **AI Solutions Engineering Intern at ChangeWell, Inc.*
 **Languages:** Swift, Python, C, Java, JavaScript  
 **Apple development:** SwiftUI, MapKit, WeatherKit, UserNotifications, UIKit interoperability  
 **Backend and data:** Firebase Authentication, Cloud Firestore, realtime listeners, UserDefaults, Codable  
+**Cloud and security:** AWS, credential lifecycle management, network security, automated security evaluation<br>
 **Developer tools:** Git, GitHub, Xcode, TestFlight, VS Code  
 **AI-assisted workflows:** Codex, ChatGPT, Gemini, Google Flow
 
